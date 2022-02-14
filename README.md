@@ -1,4 +1,4 @@
-# Hi, I'm Suraj 👋🏾 👩🏾‍💻
+# Hi, I'm Suraj 👋🏾 
 
 [![Linkedin: Suraj](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-73a7891a4//)](https://www.linkedin.com/in/suraj-kumar-73a7891a4/)
 ![GitHub followers](https://img.shields.io/github/followers/azmuth13?label=Follow&style=social)
