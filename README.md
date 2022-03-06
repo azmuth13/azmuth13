@@ -4,7 +4,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/azmuth13?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=azmuth13&color=brightgreen">  
 
-<h2 align="center">Hi 👋, I'm Tong Hui Kang, from Singapore 🇸🇬</h2>
 
 <br>
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/suraj__k/)
