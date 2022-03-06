@@ -4,6 +4,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/azmuth13?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=azmuth13&color=brightgreen">  
 
+[![Leetcode](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/suraj__k/)
+<br>
+[![Binarysearch](https://binarysearch.com/api/shields/huikang)](https://binarysearch.com/@/azmuth13)
+<br>
 
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleetcode.com%2Fsuraj__k%2F&count_bg=%239BF480&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Leetcode&edge_flat=false)](https://hits.seeyoufarm.com)
