@@ -6,14 +6,14 @@
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/suraj__k/)
 <br>
-[![Binarysearch](https://binarysearch.com/api/shields/huikang)](https://binarysearch.com/@/azmuth13)
+[![Binarysearch](https://binarysearch.com/api/shields/azmuth13)](https://binarysearch.com/@/azmuth13)
 <br>
 
-<br>
+<!-- <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleetcode.com%2Fsuraj__k%2F&count_bg=%239BF480&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Leetcode&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbinarysearch.com%2F%40%2Fazmuth13&count_bg=%238580F4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Binarysearch&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+<br> -->
 
 ## 👨🏻‍💻 &nbsp;About Me
 
