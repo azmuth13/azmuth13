@@ -20,7 +20,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I'm currently studying Computer Engineering at Delhi Technological University, New Delhi.\
-🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+🌱 &nbsp;I'm on track for learning more about Data Structures, Systems Design, and Algorithms.\
+🔭 &nbsp;I’m always curious to read about transformative technologies.\
 ✉️ &nbsp;You can shoot me an email at surajkrishankumaryadav@gmail.com! I'll try to respond as soon as I can.
 
 
