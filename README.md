@@ -21,7 +21,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I'm a Computer Engineering graduate from Delhi Technological University, New Delhi.\
-🌱 &nbsp;I'm on track to learn more about Data Structures, Systems Design, and Algorithms.\
+🌱 &nbsp;I am an early adopter.\
 🔭 &nbsp;I’m always curious to read about transformative technologies.\
 ✉️ &nbsp;You can shoot me an email at surajkrishankumaryadav@gmail.com! I'll try to respond as soon as I can.
 
